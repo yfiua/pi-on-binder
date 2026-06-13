@@ -82,6 +82,13 @@ pi
 pi -p "Analyze the dataset in data.csv"
 ```
 
+### Launch pi from the JupyterLab launcher
+
+After launch, click the **Pi Agent** icon in the launcher (Console section).
+It opens a terminal and runs pi automatically.
+
+Alternatively, open a terminal and type `pi`.
+
 ---
 
 ## 📁 File overview
